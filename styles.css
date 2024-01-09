@@ -1,0 +1,39 @@
+
+html{
+    background-color: aliceblue;
+    text-align: center;
+    color: rgb(38, 12, 68);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* header style */
+header, footer {
+    background-color: rgb(159, 173, 185);
+    margin: 50px;
+    padding: 20px;
+}
+
+
+h1{
+    font-size:50px;
+}
+
+
+/*class for list bullet position*/
+.list{
+    list-style-position: inside;
+}
+
+
+/* Link Colors */
+a:link    { color: rgb(84, 84, 104);  }
+a:visited { color: rgb(33, 33, 85); }
+a:hover   { color: azure; }
+a:active  { color: plum; }
+
+
+main {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+
+  
